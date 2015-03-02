@@ -1,0 +1,9 @@
+.logo img {
+	width:5%;
+	height: auto;
+	opacity: 0.9;
+}
+
+.bphover:hover {
+	opacity: 1;
+}
